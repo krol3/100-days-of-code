@@ -2,7 +2,7 @@
 
 ## Day 1: January 07, 2017 
 
-Day 1 of #100DaysOfCode Serverles and Aws, running a lambda to save images in S3
+Day 1 of #100DaysOfCode Serverless to save images in S3
 
 **Today's Progress**: Serverles and Aws.
 
